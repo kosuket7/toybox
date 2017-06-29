@@ -10,6 +10,7 @@ protect_from_forgery
           @title = 'index'
           @msg = 'type text...'
           @value = ''
+          
       end
         
         
