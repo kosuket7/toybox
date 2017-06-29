@@ -1,6 +1,6 @@
 class HeloController < ApplicationController
 protect_from_forgery
-
+##comments
    def index
       if request.post? then
           
